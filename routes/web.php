@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     $articles = [
         [
-            "judul"     => "Pemrograman Berbasis Web",
+            "judul"     => "Pemrograman Internet",
             "author"    => "Nyoman Piarsa | 1 Oktober 2024",
             "isi"       => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eligendi accusantium libero incidunt corporis, maiores id ipsa. Pariatur ex commodi deserunt, dolor similique in esse doloribus? Delectus eligendi praesentium dicta!",
             "email"     => "manpits@gmail.com",
